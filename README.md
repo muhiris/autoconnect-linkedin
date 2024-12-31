@@ -12,8 +12,7 @@
 1. Press `F12` on your keyboard (opens Developer Tools)
 2. Click on "Console" tab
 3. Copy all the code from [script.js](https://raw.githubusercontent.com/muhiris/autoconnect-linkedin/main/script.js).
-4. Paste it in the console.  
-   *If the console is not letting you paste, type "Allow pasting" in console*
+4. Paste it in the console.  *(If the console is not letting you paste, type "Allow pasting" in console)*
 5. Press Enter
 
 ### Step 3: Watch it Work!
