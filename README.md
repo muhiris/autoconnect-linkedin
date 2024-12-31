@@ -11,10 +11,7 @@
 ### Step 2: Run the Script
 1. Press `F12` on your keyboard (opens Developer Tools)
 2. Click on "Console" tab
-3. Copy all the code from `script.js` or just copy-paste this code 
-    ```bash
-    curl -s https://raw.githubusercontent.com/muhiris/autoconnect-linkedin/main/script.js | pbcopy
-    ```
+3. Copy all the code from [script.js](https://raw.githubusercontent.com/muhiris/autoconnect-linkedin/main/script.js).
 4. Paste it in the console
 5. Press Enter
 
